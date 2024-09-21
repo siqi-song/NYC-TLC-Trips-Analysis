@@ -82,7 +82,7 @@ True                 | 26.69
 
 ### 7. What is the distribution of trip distances across different times of the day?
 
-#              | count   | mean | std  | min | 25%  | 50%  | 75%  | max
+\              | count   | mean | std  | min | 25%  | 50%  | 75%  | max
 ---------------|---------|------|------|-----|------|------|------|--------
 <b>time_of_day |
 Night          | 1712245 | 2.62 | 2.14 | 0.0 | 1.10 | 1.93 | 3.51 | 10.0
