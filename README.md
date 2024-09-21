@@ -15,7 +15,7 @@ The site contains datasets for 4 types of taxis / for-hire vehicles (FHV):
 Please click on the links above to understand the details of each dataset.
 
 Analysis is performed on each type of dataset, and comparisons are also conducted across various taxi/FHV types. Data Analytics results are shown in the respective Python notebooks, and they are also presented in the Markdown files for easy reference:
-- [Yellow Taxi Results]()
+- [Yellow Taxi Results](results/yellow_taxi_results.md)
 - [Green Taxi Results]()
 - [For-Hire Vehicle Results]()
 - [High Volume For-Hire Vehicle Results]()
