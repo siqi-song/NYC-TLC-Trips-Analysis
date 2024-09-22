@@ -14,6 +14,17 @@ The site contains datasets for 4 types of taxis / for-hire vehicles (FHV):
 
 Please click on the links above to understand the details of each dataset.
 
+**[Note]:** All the datasets contain pickup &amp; dropoff Location ID fields. The mappings between Location ID and Borough, Zone, Service Zone could be found in the [Taxi Zone Lookup Table](https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv).
+<br>
+*Examples:*
+LocationID | Borough       | Zone                    | service_zone
+-----------|---------------|-------------------------|----------------
+1          | EWR           | Newark Airport          | EWR
+2          | Queens        | Jamaica Bay             | Boro Zone
+3          | Bronx         | Allerton/Pelham Gardens | Boro Zone
+4          | Manhattan     | Alphabet City           | Yellow Zone
+5          | Staten Island | Arden Heights           | Boro Zone
+
 Analysis is performed on each type of dataset, and comparisons are also conducted across various taxi/FHV types. Data Analytics results are shown in the respective Python notebooks, and they are also presented in the Markdown files for easy reference:
 - [Yellow Taxi Results](results/yellow_taxi_results.md)
 - [Green Taxi Results]()
