@@ -8,10 +8,10 @@ Please refer to the Introduction of [For-Hire Vehicle Trip Records](for_hire_veh
 
 Field Name            | Description
 ----------------------|-------------------------------------------------
-Hvfhs_license_num     | The TLC license number of the HVFHS base or business As of September 2019, the HVFHS licensees are the following:<br> • HV0002: Juno<br> • HV0003: Uber<br> • HV0004: Via<br> • HV0005: Lyft
-Dispatching_base_num  | The TLC Base License Number of the base that dispatched the trip.
-Pickup_datetime       | The date and time of the trip pick-up.
-DropOff_datetime      | The date and time of the trip drop-off.
+hvfhs_license_num     | The TLC license number of the HVFHS base or business As of September 2019, the HVFHS licensees are the following:<br> • HV0002: Juno<br> • HV0003: Uber<br> • HV0004: Via<br> • HV0005: Lyft
+dispatching_base_num  | The TLC Base License Number of the base that dispatched the trip.
+pickup_datetime       | The date and time of the trip pick-up.
+dropoff_datetime      | The date and time of the trip drop-off.
 PULocationID          | TLC Taxi Zone in which the trip began.
 DOLocationID          | TLC Taxi Zone in which the trip ended.
 originating_base_num  | Base number of the base that received the original trip request.
