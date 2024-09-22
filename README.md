@@ -30,8 +30,8 @@ Analysis is performed on each type of dataset, and comparisons are also conducte
 - [Green Taxi Results](results/green_taxi_results.md)
 - [For-Hire Vehicle Results](results/fhv_results.md)
 - [High Volume For-Hire Vehicle Results](results/hv_fhv_results.md)
-- [Cross-Taxi Evaluation Results]()
+- [Cross-Taxi Evaluation Results]() [coming soon]
 
-\<WIP\> Include PowerBI file
+\<WIP\> Include PowerBI file for visualization
 
-\<WIP\> Add ML models training and evaluation
+\<WIP\> Add ML models training and evaluation sections
