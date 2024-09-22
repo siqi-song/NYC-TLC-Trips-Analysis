@@ -12,7 +12,7 @@ Field Name            | Description
 ----------------------|-------------------------------------------------
 dispatching_base_num  | The TLC Base License Number of the base that dispatched the trip.
 pickup_datetime       | The date and time of the trip pick-up.
-dropoff_datetime      | The date and time of the trip dropoff.
+dropOff_datetime      | The date and time of the trip dropoff.
 PULocationID          | TLC Taxi Zone in which the trip began.
 DOLocationID          | TLC Taxi Zone in which the trip ended.
 SR_Flag               | Indicates if the trip was a part of a shared ride chain offered by a High Volume FHV company (e.g. Uber Pool, Lyft Line). For shared trips, the value is 1. For non-shared rides, this field is null.

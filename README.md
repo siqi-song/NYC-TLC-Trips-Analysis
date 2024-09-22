@@ -27,9 +27,9 @@ LocationID | Borough       | Zone                    | service_zone
 
 Analysis is performed on each type of dataset, and comparisons are also conducted across various taxi/FHV types. Data Analytics results are shown in the respective Python notebooks, and they are also presented in the Markdown files for easy reference:
 - [Yellow Taxi Results](results/yellow_taxi_results.md)
-- [Green Taxi Results]()
-- [For-Hire Vehicle Results]()
-- [High Volume For-Hire Vehicle Results]()
+- [Green Taxi Results](results/green_taxi_results.md)
+- [For-Hire Vehicle Results](results/fhv_results.md)
+- [High Volume For-Hire Vehicle Results](results/hv_fhv_results.md)
 - [Cross-Taxi Evaluation Results]()
 
 \<WIP\> Include PowerBI file
